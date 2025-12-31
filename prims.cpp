@@ -12,7 +12,7 @@ void primMST(int V, vector<vector<pii>>& graph) {
     // Stores the minimum weight edge to connect each vertex to the MST
     vector<int> key(V, INT_MAX);
 
-    
+    // Stores the parent of each vertex in the MST
     
 
 }
