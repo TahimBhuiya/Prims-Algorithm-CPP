@@ -8,3 +8,11 @@ using namespace std;
 typedef pair<int, int> pii;
 
 // Prim's Algorithm function
+void primMST(int V, vector<vector<pii>>& graph) {
+    
+   
+
+    
+    
+
+}
