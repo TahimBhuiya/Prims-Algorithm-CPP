@@ -10,7 +10,7 @@ typedef pair<int, int> pii;
 // Prim's Algorithm function
 void primMST(int V, vector<vector<pii>>& graph) {
     // Stores the minimum weight edge to connect each vertex to the MST
-   
+    vector<int> key(V, INT_MAX);
 
     
     
