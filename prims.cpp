@@ -13,6 +13,6 @@ void primMST(int V, vector<vector<pii>>& graph) {
     vector<int> key(V, INT_MAX);
 
     // Stores the parent of each vertex in the MST
-    
+    vector<int> parent(V, -1);
 
 }
