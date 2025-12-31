@@ -5,6 +5,6 @@
 using namespace std;
 
 // Pair format: {weight, vertex}
-
+typedef pair<int, int> pii;
 
 
