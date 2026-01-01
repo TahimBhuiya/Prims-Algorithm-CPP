@@ -25,6 +25,6 @@ void primMST(int V, vector<vector<pii>>& graph) {
     key[0] = 0;
     pq.push({0, 0});
 
-    
+    while (!pq.empty()) {}
 
 }
