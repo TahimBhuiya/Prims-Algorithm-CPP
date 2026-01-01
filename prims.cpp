@@ -22,7 +22,7 @@ void primMST(int V, vector<vector<pii>>& graph) {
     priority_queue<pii, vector<pii>, greater<pii>> pq;
 
     // Start from vertex 0
-   
+    key[0] = 0;
     
 
     
