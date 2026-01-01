@@ -23,7 +23,7 @@ void primMST(int V, vector<vector<pii>>& graph) {
 
     // Start from vertex 0
     key[0] = 0;
-    
+    pq.push({0, 0});
 
     
 
