@@ -21,7 +21,7 @@ void primMST(int V, vector<vector<pii>>& graph) {
     // Min-heap priority queue (weight, vertex)
     priority_queue<pii, vector<pii>, greater<pii>> pq;
 
-    
+    // Start from vertex 0
    
     
 
