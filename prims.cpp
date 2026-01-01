@@ -19,7 +19,7 @@ void primMST(int V, vector<vector<pii>>& graph) {
     vector<bool> inMST(V, false);
 
     // Min-heap priority queue (weight, vertex)
-    
+    priority_queue<pii, vector<pii>, greater<pii>> pq;
 
     
    
