@@ -16,7 +16,7 @@ void primMST(int V, vector<vector<pii>>& graph) {
     vector<int> parent(V, -1);
 
     // Keeps track of vertices included in MST
-    
+    vector<bool> inMST(V, false);
 
     
     
