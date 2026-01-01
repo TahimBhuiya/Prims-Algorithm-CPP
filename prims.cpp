@@ -18,7 +18,7 @@ void primMST(int V, vector<vector<pii>>& graph) {
     // Keeps track of vertices included in MST
     vector<bool> inMST(V, false);
 
-    
+    // Min-heap priority queue (weight, vertex)
     
 
     
