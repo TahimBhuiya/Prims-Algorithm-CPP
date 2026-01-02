@@ -33,7 +33,7 @@ void primMST(int V, vector<vector<pii>>& graph) {
         if (inMST[u])
             continue;
 
-        
+        // Include vertex in MST
         
 
         
