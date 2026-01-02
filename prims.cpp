@@ -31,7 +31,7 @@ void primMST(int V, vector<vector<pii>>& graph) {
 
         // If vertex is already included in MST, skip
         if (inMST[u])
-            
+            continue;
 
         
         
