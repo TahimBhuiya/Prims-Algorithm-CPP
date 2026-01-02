@@ -27,7 +27,7 @@ void primMST(int V, vector<vector<pii>>& graph) {
 
     while (!pq.empty()) {
         int u = pq.top().second;
-        
+        pq.pop();
 
         
         
