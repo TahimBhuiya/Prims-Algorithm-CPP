@@ -34,7 +34,7 @@ void primMST(int V, vector<vector<pii>>& graph) {
             continue;
 
         // Include vertex in MST
-        
+        inMST[u] = true;
 
         
     }
