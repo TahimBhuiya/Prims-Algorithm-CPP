@@ -29,7 +29,7 @@ void primMST(int V, vector<vector<pii>>& graph) {
         int u = pq.top().second;
         pq.pop();
 
-        
+        // If vertex is already included in MST, skip
         
             
 
