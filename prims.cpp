@@ -25,6 +25,18 @@ void primMST(int V, vector<vector<pii>>& graph) {
     key[0] = 0;
     pq.push({0, 0});
 
-    while (!pq.empty()) {}
+    while (!pq.empty()) {
+        int u = pq.top().second;
+        pq.pop();
+
+        // If vertex is already included in MST, skip
+        
+            
+
+        
+        
+
+        
+    }
 
 }
