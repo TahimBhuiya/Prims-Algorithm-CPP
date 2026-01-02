@@ -30,7 +30,7 @@ void primMST(int V, vector<vector<pii>>& graph) {
         pq.pop();
 
         // If vertex is already included in MST, skip
-        
+        if (inMST[u])
             
 
         
