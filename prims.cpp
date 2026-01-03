@@ -39,7 +39,7 @@ void primMST(int V, vector<vector<pii>>& graph) {
         // Traverse all adjacent vertices
         for (auto edge : graph[u]) {
             int v = edge.first;      // Adjacent vertex
-            int weight = edge.second; 
+            int weight = edge.second; // Edge weight
 
             
             
