@@ -42,7 +42,7 @@ void primMST(int V, vector<vector<pii>>& graph) {
             int weight = edge.second; // Edge weight
 
             // If v not in MST and weight is smaller than current key
-            
+            if (!inMST[v] && weight < key[v]) {}}
 
         
     }
