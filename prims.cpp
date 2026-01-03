@@ -38,7 +38,7 @@ void primMST(int V, vector<vector<pii>>& graph) {
 
         // Traverse all adjacent vertices
         for (auto edge : graph[u]) {
-               
+            int v = edge.first;      
             
 
             
