@@ -36,7 +36,7 @@ void primMST(int V, vector<vector<pii>>& graph) {
         // Include vertex in MST
         inMST[u] = true;
 
+        // Traverse all adjacent vertices
         
-    }
 
 }
