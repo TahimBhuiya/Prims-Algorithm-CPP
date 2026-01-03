@@ -41,7 +41,7 @@ void primMST(int V, vector<vector<pii>>& graph) {
             int v = edge.first;      // Adjacent vertex
             int weight = edge.second; // Edge weight
 
-            
+            // If v not in MST and weight is smaller than current key
             
 
         
