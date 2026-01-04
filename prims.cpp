@@ -45,7 +45,7 @@ void primMST(int V, vector<vector<pii>>& graph) {
             if (!inMST[v] && weight < key[v]) {
                 key[v] = weight;
                 parent[v] = u;
-                
+                pq.push({key[v], v});
             }
         }
     }
