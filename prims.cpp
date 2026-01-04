@@ -54,6 +54,6 @@ void primMST(int V, vector<vector<pii>>& graph) {
     cout << "Edges in the Minimum Spanning Tree:\n";
     cout << "Edge \tWeight\n";
     for (int i = 1; i < V; i++) {
-        
+        cout << parent[i] << " - " << i << "\t" << key[i] << "\n";
     }
 }
