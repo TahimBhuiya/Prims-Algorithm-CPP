@@ -44,7 +44,7 @@ void primMST(int V, vector<vector<pii>>& graph) {
             // If v not in MST and weight is smaller than current key
             if (!inMST[v] && weight < key[v]) {
                 key[v] = weight;
-                
+                parent[v] = u;
                 
             }
         }
