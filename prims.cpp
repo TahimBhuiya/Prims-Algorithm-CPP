@@ -50,7 +50,7 @@ void primMST(int V, vector<vector<pii>>& graph) {
         }
     }
 
-    
+    // Print the MST
     
     
     
