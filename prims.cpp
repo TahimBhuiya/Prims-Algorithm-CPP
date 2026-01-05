@@ -42,18 +42,9 @@ void primMST(int V, vector<vector<pii>>& graph) {
             int weight = edge.second; // Edge weight
 
             // If v not in MST and weight is smaller than current key
-            if (!inMST[v] && weight < key[v]) {
-                key[v] = weight;
-                parent[v] = u;
-                pq.push({key[v], v});
-            }
-        }
+            if (!inMST[v] && weight < key[v]) {}}
+
+        
     }
 
-    // Print the MST
-    cout << "Edges in the Minimum Spanning Tree:\n";
-    cout << "Edge \tWeight\n";
-    for (int i = 1; i < V; i++) {
-        cout << parent[i] << " - " << i << "\t" << key[i] << "\n";
-    }
 }
