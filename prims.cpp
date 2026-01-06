@@ -60,7 +60,7 @@ void primMST(int V, vector<vector<pii>>& graph) {
 
 // Main function
 int main() {
-    int V = 5; 
+    int V = 5; // Number of vertices
 
 
 
