@@ -59,7 +59,7 @@ void primMST(int V, vector<vector<pii>>& graph) {
 }
 
 // Main function
-
+int main() {
 
 
 
