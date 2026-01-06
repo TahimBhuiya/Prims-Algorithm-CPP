@@ -62,7 +62,7 @@ void primMST(int V, vector<vector<pii>>& graph) {
 int main() {
     int V = 5; // Number of vertices
 
-
+    // Adjacency list: {neighbor, weight}
 
 
 
