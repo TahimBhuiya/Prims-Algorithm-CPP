@@ -69,7 +69,7 @@ int main() {
     graph[0].push_back({1, 2});
     graph[1].push_back({0, 2});
 
-
+    graph[0].push_back({3, 6});
 
 
 
