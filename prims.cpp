@@ -76,3 +76,4 @@ int main() {
     graph[2].push_back({1, 3});
 
     graph[1].push_back({3, 8});
+    graph[3].push_back({1, 8});
