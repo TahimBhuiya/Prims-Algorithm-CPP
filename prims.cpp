@@ -66,3 +66,13 @@ int main() {
     vector<vector<pii>> graph(V);
 
     // Undirected graph edges
+    graph[0].push_back({1, 2});
+
+
+
+
+
+
+
+
+
