@@ -67,7 +67,7 @@ int main() {
 
     // Undirected graph edges
     graph[0].push_back({1, 2});
-
+    graph[1].push_back({0, 2});
 
 
 
