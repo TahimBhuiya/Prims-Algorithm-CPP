@@ -86,4 +86,5 @@ int main() {
 
     primMST(V, graph);
 
+    return 0;
 }
