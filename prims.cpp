@@ -77,3 +77,13 @@ int main() {
 
     graph[1].push_back({3, 8});
     graph[3].push_back({1, 8});
+
+    graph[1].push_back({4, 5});
+
+
+
+
+
+
+
+}
