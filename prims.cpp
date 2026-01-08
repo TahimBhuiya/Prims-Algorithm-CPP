@@ -82,7 +82,7 @@ int main() {
     graph[4].push_back({1, 5});
 
     graph[2].push_back({4, 7});
-
+    graph[4].push_back({2, 7});
 
 
 
