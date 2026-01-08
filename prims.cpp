@@ -84,6 +84,6 @@ int main() {
     graph[2].push_back({4, 7});
     graph[4].push_back({2, 7});
 
-
+    primMST(V, graph);
 
 }
