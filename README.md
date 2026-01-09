@@ -9,3 +9,4 @@ Prim’s algorithm grows the MST by starting from a chosen vertex and repeatedly
 Steps Prim’s Algorithm follows:
 
 1. Start from an arbitrary vertex.
+2. Select the minimum-weight edge connected to the MST.
