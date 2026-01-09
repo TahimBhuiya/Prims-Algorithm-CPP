@@ -7,3 +7,5 @@ This C++ program demonstrates **Prim’s Algorithm**, a greedy graph algorithm u
 Prim’s algorithm grows the MST by starting from a chosen vertex and repeatedly adding the **minimum-weight edge** that connects a vertex inside the tree to a vertex outside the tree.
 
 Steps Prim’s Algorithm follows:
+
+1. Start from an arbitrary vertex.
