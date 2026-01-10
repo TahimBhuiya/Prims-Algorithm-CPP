@@ -21,3 +21,4 @@ Steps Prim’s Algorithm follows:
 - **Finds Minimum Spanning Tree (MST)**
 - **Efficient Using Priority Queue (Min-Heap)**
 - **Adjacency List Graph Representation**
+- **Fully Commented Code** for clarity and learning
