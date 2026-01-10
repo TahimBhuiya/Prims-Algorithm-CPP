@@ -12,3 +12,7 @@ Steps Prim’s Algorithm follows:
 2. Select the minimum-weight edge connected to the MST.
 3. Add the selected edge and vertex to the MST.
 4. Repeat until all vertices are included.
+
+---
+
+## 🔧 Features
