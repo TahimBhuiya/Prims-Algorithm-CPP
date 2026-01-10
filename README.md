@@ -19,3 +19,4 @@ Steps Prim’s Algorithm follows:
 
 - **Greedy Algorithm Approach**
 - **Finds Minimum Spanning Tree (MST)**
+- **Efficient Using Priority Queue (Min-Heap)**
