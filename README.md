@@ -16,3 +16,5 @@ Steps Prim’s Algorithm follows:
 ---
 
 ## 🔧 Features
+
+- **Greedy Algorithm Approach**
