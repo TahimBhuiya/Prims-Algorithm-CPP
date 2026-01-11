@@ -31,7 +31,7 @@ Steps Prim’s Algorithm follows:
 
 ```
 0 -- 1 (2)
-
+0 -- 3 (6)
 
 
 ```
