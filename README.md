@@ -22,3 +22,5 @@ Steps Prim’s Algorithm follows:
 - **Efficient Using Priority Queue (Min-Heap)**
 - **Adjacency List Graph Representation**
 - **Fully Commented Code** for clarity and learning
+
+---
