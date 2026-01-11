@@ -26,3 +26,5 @@ Steps Prim’s Algorithm follows:
 ---
 
 ## 📋 Example Run
+
+**Graph Structure (weighted undirected graph):**
