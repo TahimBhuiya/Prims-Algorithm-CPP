@@ -30,7 +30,7 @@ Steps Prim’s Algorithm follows:
 **Graph Structure (weighted undirected graph):**
 
 ```
-
+0 -- 1 (2)
 
 
 
