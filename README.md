@@ -39,3 +39,9 @@ Steps Prim’s Algorithm follows:
 ```
 
 **Output (edges in the Minimum Spanning Tree):**
+
+```
+
+
+
+```
