@@ -42,6 +42,6 @@ Steps Prim’s Algorithm follows:
 
 ```
 Edge    Weight
-
+0 - 1   2
 
 ```
