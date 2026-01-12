@@ -36,12 +36,4 @@ Steps Prim’s Algorithm follows:
 1 -- 3 (8)
 1 -- 4 (5)
 2 -- 4 (7)
-
-
-
-
-
-
-
-
 ```
