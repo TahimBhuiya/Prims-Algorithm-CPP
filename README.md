@@ -53,3 +53,4 @@ Edge    Weight
 ## ⚙ How It Works
 
 1. **Initialize Keys and MST Set**
+   - Set all vertex keys to infinity.
