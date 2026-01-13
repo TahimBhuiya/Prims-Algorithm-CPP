@@ -54,3 +54,4 @@ Edge    Weight
 
 1. **Initialize Keys and MST Set**
    - Set all vertex keys to infinity.
+   - Start with key = 0 for the source vertex.
