@@ -49,3 +49,5 @@ Edge    Weight
 ```
 
 ---
+
+## ⚙ How It Works
