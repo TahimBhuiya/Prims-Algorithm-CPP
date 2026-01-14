@@ -62,4 +62,7 @@ Edge    Weight
    - Use a priority queue to pick the vertex with the smallest key value.
 
 3. **Update Adjacent Vertices**
+
    - Update keys of adjacent vertices if a smaller edge weight is found.
+
+4. **Repeat Until MST is Complete**
