@@ -58,3 +58,4 @@ Edge    Weight
    - Start with key = 0 for the source vertex.
 
 2. **Select Minimum Key Vertex**
+   - Use a priority queue to pick the vertex with the smallest key value.
