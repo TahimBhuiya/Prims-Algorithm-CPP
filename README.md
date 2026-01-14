@@ -66,3 +66,4 @@ Edge    Weight
    - Update keys of adjacent vertices if a smaller edge weight is found.
 
 4. **Repeat Until MST is Complete**
+   - Continue until all vertices are included in the MST.
