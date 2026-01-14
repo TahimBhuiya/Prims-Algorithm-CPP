@@ -67,3 +67,5 @@ Edge    Weight
 
 4. **Repeat Until MST is Complete**
    - Continue until all vertices are included in the MST.
+
+---
