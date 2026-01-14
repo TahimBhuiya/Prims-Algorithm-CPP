@@ -69,3 +69,5 @@ Edge    Weight
    - Continue until all vertices are included in the MST.
 
 ---
+
+## 🛠 How to Run
