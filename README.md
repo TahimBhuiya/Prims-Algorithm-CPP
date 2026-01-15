@@ -79,9 +79,4 @@ Save the code as `prims.cpp` and then compile/run:
 ```bash
 g++ prims.cpp -o prims
 ./prims
-
-
-
-
-
 ```
