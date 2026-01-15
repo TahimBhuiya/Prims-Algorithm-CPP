@@ -71,3 +71,5 @@ Edge    Weight
 ---
 
 ## 🛠 How to Run
+
+### 1️⃣ Using a local C++ compiler
