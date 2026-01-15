@@ -75,3 +75,13 @@ Edge    Weight
 ### 1️⃣ Using a local C++ compiler
 
 Save the code as `prims.cpp` and then compile/run:
+
+```bash
+
+
+
+
+
+
+
+```
