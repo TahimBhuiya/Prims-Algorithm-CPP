@@ -82,3 +82,5 @@ g++ prims.cpp -o prims
 ```
 
 ### 2️⃣ Using an online C++ compiler
+
+You can paste and run the code using:
