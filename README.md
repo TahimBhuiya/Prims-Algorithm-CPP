@@ -80,3 +80,5 @@ Save the code as `prims.cpp` and then compile/run:
 g++ prims.cpp -o prims
 ./prims
 ```
+
+### 2️⃣ Using an online C++ compiler
