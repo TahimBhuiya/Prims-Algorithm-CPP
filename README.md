@@ -53,16 +53,13 @@ Edge    Weight
 ## ⚙ How It Works
 
 1. **Initialize Keys and MST Set**
-
    - Set all vertex keys to infinity.
    - Start with key = 0 for the source vertex.
 
 2. **Select Minimum Key Vertex**
-
    - Use a priority queue to pick the vertex with the smallest key value.
 
 3. **Update Adjacent Vertices**
-
    - Update keys of adjacent vertices if a smaller edge weight is found.
 
 4. **Repeat Until MST is Complete**
@@ -84,3 +81,5 @@ g++ prims.cpp -o prims
 ### 2️⃣ Using an online C++ compiler
 
 You can paste and run the code using:
+
+- Programiz
